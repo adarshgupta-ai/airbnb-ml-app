@@ -1,0 +1,11 @@
+price,minimum_nights,number_of_reviews,reviews_per_month,neighbourhood_group
+120,2,50,1.2,Manhattan
+80,1,20,0.5,Brooklyn
+200,3,100,2.0,Manhattan
+60,1,10,0.3,Queens
+150,2,70,1.5,Brooklyn
+90,1,30,0.8,Bronx
+300,4,150,3.0,Manhattan
+70,1,15,0.4,Staten Island
+180,2,90,1.8,Queens
+110,2,40,1.0,Brooklyn
